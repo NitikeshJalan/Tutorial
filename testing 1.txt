@@ -2,3 +2,4 @@ hello good morning
 hello good afternoon
 hello Good night.
 hello good day
+nice day
